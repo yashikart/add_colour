@@ -42,7 +42,11 @@ for i in range(len(L)):
 
 
 
-sir practical 
+sir practical 's
+
+
+
+
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
